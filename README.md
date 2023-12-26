@@ -27,6 +27,6 @@ x=circulate()<br>
 print("After circulating the values are:",x)<br>
 
 ## Output:
-![image](https://github.com/sanjaysivaramakrishnan/Circulate-the-values-of-N-variables/assets/151629616/f2cb71c2-a4d0-4f5c-83b6-45101e7ea26d)
+![Screenshot 2023-12-21 143351](https://github.com/sanjaysivaramakrishnan/Circulate-the-values-of-N-variables/assets/151629616/223d9d3b-9d2e-4633-845d-b78d095a03ca)
 
 ## Result:
